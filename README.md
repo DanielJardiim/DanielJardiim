@@ -125,7 +125,8 @@
 ## 🐍 Snake Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/DanielJardiim/DanielJardiim/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DanielJardiim/DanielJardiim/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 
