@@ -124,6 +124,7 @@
 
 ## 🐍 Snake Animation
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DanielJardiim/DanielJardiim/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
+<p align="center">
+  <img src="https://github.com/DanielJardiim/DanielJardiim/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark mode" />
+</p>
+
