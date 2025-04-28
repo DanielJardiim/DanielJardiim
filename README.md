@@ -122,9 +122,10 @@
 
 ---
 
-## 🐍 Snake Animation
+## 🐍 Snake Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/DanielJardiim/DanielJardiim/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark mode" />
+  <img src="https://github.com/DanielJardiim/DanielJardiim/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
