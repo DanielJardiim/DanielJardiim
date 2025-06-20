@@ -92,6 +92,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielJardiim&repo=nestjs-clean-arch&theme=github_dark" width="400"/>
 </a>
 
+<a href="https://github.com/DanielJardiim/app-pokeapi" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielJardiim&repo=app-pokeapi&theme=github_dark" width="400"/>
+</a>
+
 <a href="https://github.com/DanielJardiim/SD_DanielJardim" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielJardiim&repo=SD_DanielJardim&theme=github_dark" width="400"/>
 </a>
