@@ -80,8 +80,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielJardiim&repo=trampay-frontend&theme=github_dark" width="400"/>
 </a>
 
-<a href="https://github.com/DanielJardiim/backend-bancodesangue" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielJardiim&repo=backend-bancodesangue&theme=github_dark" width="400"/>
+<a href="https://github.com/DanielJardiim/eco-map" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielJardiim&repo=eco-map&theme=github_dark" width="400"/>
 </a>
 
 <a href="https://github.com/DanielJardiim/customer-management-system" target="_blank">
