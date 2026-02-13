@@ -52,7 +52,7 @@ Graduado em Engenharia da Computação pelo INATEL, com sólida experiência em 
 ### [TramPay - Backend](https://github.com/DanielJardiim/trampay-backend)
 Sistema backend para plataforma de pagamento de freelancers. Desenvolvido com Node.js, TypeScript e arquitetura escalável.
 
-**Tecnologias:** Node.js, TypeScript, Express, PostgreSQL
+**Tecnologias:** Node.js, TypeScript, Nest.js, PostgreSQL
 
 ---
 
@@ -66,35 +66,35 @@ Interface de usuário moderna e responsiva para a plataforma TramPay.
 ### [Eco Map](https://github.com/DanielJardiim/eco-map)
 Aplicação de mapeamento ecológico com visualização geoespacial de dados ambientais.
 
-**Tecnologias:** JavaScript, Leaflet, API REST
+**Tecnologias:** React, NestJS, Docker Compose
 
 ---
 
 ### [Customer Management System](https://github.com/DanielJardiim/customer-management-system)
 Sistema completo de gerenciamento de clientes com CRUD, autenticação e relatórios.
 
-**Tecnologias:** Java, Spring Boot, MySQL, JPA
+**Tecnologias:** Node.js, Express, MySQL, Sequelize
 
 ---
 
 ### [NestJS Clean Architecture](https://github.com/DanielJardiim/nestjs-clean-arch)
 Implementação de arquitetura limpa usando NestJS, demonstrando boas práticas de separação de responsabilidades.
 
-**Tecnologias:** NestJS, TypeScript, Clean Architecture, SOLID
+**Tecnologias:** Node.js, Fastify, PostgreSQL, React, Vite (ferramenta de build)
 
 ---
 
 ### [PokéAPI Application](https://github.com/DanielJardiim/app-pokeapi)
 Aplicação consumindo a PokéAPI com interface interativa e busca de dados.
 
-**Tecnologias:** JavaScript, Vue.js, API REST
+**Tecnologias:** Ionic Framework, Angular, RxJS, TypeScript, PokeAPI
 
 ---
 
 ### [Distributed Systems](https://github.com/DanielJardiim/SD_DanielJardim)
 Projetos e estudos sobre sistemas distribuídos, incluindo implementações de consenso e comunicação entre processos.
 
-**Tecnologias:** Java, Python, RPC, Sockets
+**Tecnologias:** Java, TypeScript, HTML, SCSS
 
 ---
 
@@ -102,9 +102,9 @@ Projetos e estudos sobre sistemas distribuídos, incluindo implementações de c
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielJardiim&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielJardiim&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJardiim&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJardiim&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
 
 </div>
 
