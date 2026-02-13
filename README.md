@@ -98,14 +98,10 @@ Projetos e estudos sobre sistemas distribuídos, incluindo implementações de c
 
 ---
 
-## 📊 Estatísticas do GitHub
-
+📊 Estatísticas do GitHub
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielJardiim&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJardiim&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielJardiim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJardiim&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
 </div>
 
 ---
