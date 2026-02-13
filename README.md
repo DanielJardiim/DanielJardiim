@@ -98,14 +98,6 @@ Projetos e estudos sobre sistemas distribuídos, incluindo implementações de c
 
 ---
 
-📊 Estatísticas do GitHub
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielJardiim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJardiim&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
-</div>
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Jardim%20Nunes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-jardim-nunes)
