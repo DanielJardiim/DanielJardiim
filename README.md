@@ -49,6 +49,11 @@ Graduado em Engenharia da Computação pelo INATEL, com sólida experiência em 
 
 ## 💼 Projetos em Destaque
 
+### [NFE-Processor](https://github.com/DanielJardiim/nfe-processor.git)
+Aplicação Full Stack para processamento de NF-e. Upload de XMLs, classificação de operações fiscais (Compra/Venda), integração com RabbitMQ e API de clientes internos. Node.js, TypeScript, Fastify, Prisma, PostgreSQL, React e Docker.
+
+---
+
 ### [TramPay - Backend](https://github.com/DanielJardiim/trampay-backend)
 Sistema backend para plataforma de pagamento de freelancers. Desenvolvido com Node.js, TypeScript e arquitetura escalável.
 
